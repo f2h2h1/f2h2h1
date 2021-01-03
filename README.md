@@ -1,11 +1,25 @@
 Hey! Nice to see you.
 ========
 
-## Overview ![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=f2h2h1.f2h2h1)
+## Overview ![visitors](https://visitor-badge.glitch.me/badge?page_id=f2h2h1.f2h2h1)
 <!-- ![GitHub User's stars](https://img.shields.io/github/stars/f2h2h1?label=github&style=social) -->
 
 ![GitHub readme stats](https://github-readme-stats.vercel.app/api?username=f2h2h1&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f2h2h1&theme=dark)
+
+## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 此用户正在积极地寻找新的工作机会
+- 此用户热爱互联网行业并关注行业动态
+- 此用户有较强的学习能力和学习意愿
+- 此用户有良好的编码风格，会注重代码的可重用性和可读性
+- 此用户支持自由软件运动，并订阅了[自由软件基金会](https://www.fsf.org/)的准会员
+- This user can communicate in English with the help of google translation
+- 此用户了解 PKI 和 socket
+- 此用户是务实的，并不排斥 Windows 这类闭源的商业软件
+<!-- - 可以使用这个邮箱  和此用户联系 -->
+
+<details>
+<summary>more info</summary>
 
 ## My skills
 - 掌握PHP，掌握Composer，掌握Yii2，ThinkPHP，CI等常用框架，了解psr规范
@@ -31,20 +45,18 @@ Hey! Nice to see you.
 - phpRedisAdmin
 - docker
 
-## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 此用户正在积极地寻找新的工作机会
-- 此用户热爱互联网行业并关注行业动态
-- 此用户有较强的学习能力和学习意愿
-- 此用户有良好的编码风格，会注重代码的可重用性和可读性
-- 此用户支持自由软件运动，并订阅了[自由软件基金会](https://www.fsf.org/)的准会员
-- This user can communicate in English with the help of google translation
-- 此用户了解 PKI 和 socket
-- 此用户是务实的，并不排斥 Windows 这类闭源的商业软件
-<!-- 可以使用这个邮箱  和此用户联系 -->
+<details>
+<summary> </summary>
+
 - <span style="filter: invert(1) opacity(30%);">此用户是乐观的，并认为人类的未来是美好的，尽管当前社会存在各种问题（悬殊的贫富差距，COVID-19，宗教冲突，...）    
 此用户相信共产主义会实现    
 此用户是唯物主义者    
-此用户希望能为社会的发展贡献一点微小的力量</span>
+此用户希望能为社会的发展贡献一点微小的力量
+</span>
+</details>
+
+</details>
+
 
 <!--
 
