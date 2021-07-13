@@ -14,7 +14,7 @@ Hey! Nice to see you.
 - 此用户有良好的编码风格，会注重代码的可重用性和可读性
 - 此用户支持自由软件运动，并订阅了[自由软件基金会](https://www.fsf.org/)的准会员
 - This user can communicate in English with the help of google translation
-- 此用户了解 PKI 和 socket
+- 此用户掌握 PKI 和了解 socket
 - 此用户是务实的，并不排斥 Windows 这类闭源的商业软件
 <!-- - 可以使用这个邮箱  和此用户联系 -->
 
@@ -24,8 +24,8 @@ Hey! Nice to see you.
 ## My skills
 - 掌握PHP，掌握Composer，掌握Yii2，ThinkPHP，larveral，CI等常用框架，了解psr规范
 - 掌握SQL，掌握MySQL，熟悉数据库设计原则，了解MongoDB，了解mancache，redis等缓存的使用
-- 掌握JavaScript、jQuery、Chrome开发者工具，了解css3和less，了解vue，熟悉前后端分离机制，了解基本的浏览器渲染及网络传输过程
-- 掌握git，了解githook，了解svn
+- 掌握JavaScript、jQuery、Chrome开发者工具，了解css3和less，了解vue，react，熟悉前后端分离机制，了解基本的浏览器渲染及网络传输过程
+- 掌握git，了解githook，了解svn，会部署远程git仓库，会使用Swagger，apiDoc等工具
 - 了解xdebug、postman、seleniun，playwright，PHPUnit，codeception等测试工具，会部署xdebug远程调试和多服务器调试
 - 了解HTTP、WebSocket、TCP等网络协议，了解常见的Web安全问题及防范方法，了解rsa，des等加密算法
 - 了解Linux服务器的配置和管理，能独立搭建LNMP/LAMP环境，会使用宝塔面板，会编译安装php，apahce等常用软件
