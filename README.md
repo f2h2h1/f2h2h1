@@ -7,7 +7,7 @@ Hey! Nice to see you.
 ![GitHub readme stats](https://github-readme-stats.vercel.app/api?username=f2h2h1&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f2h2h1&theme=dark)
 
-## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## 𝙰𝚋𝚘𝚞𝚝 This User
 - 此用户正在积极地寻找新的工作机会
 - 此用户热爱互联网行业并关注行业动态
 - 此用户有较强的学习能力和学习意愿
@@ -16,12 +16,12 @@ Hey! Nice to see you.
 - This user can communicate in English with the help of google translation
 - 此用户掌握 PKI 和了解 socket
 - 此用户是务实的，并不排斥 Windows 这类闭源的商业软件
-<!-- - 可以使用这个邮箱  和此用户联系 -->
+- 这是此用户的博客 https://f2h2h1.github.io/
 
 <details>
 <summary>more info</summary>
 
-## My skills
+## Skills
 - 掌握PHP，掌握Composer，掌握Yii2，ThinkPHP，larveral，CI等常用框架，了解psr规范
 - 掌握SQL，掌握MySQL，熟悉数据库设计原则，了解MongoDB，了解mancache，redis等缓存的使用
 - 掌握JavaScript、jQuery、Chrome开发者工具，了解css3和less，了解vue，react，熟悉前后端分离机制，了解基本的浏览器渲染及网络传输过程
@@ -44,6 +44,62 @@ Hey! Nice to see you.
 - DBeaver Community
 - phpRedisAdmin
 - docker
+
+<details>
+<summary>contact</summary>
+
+- this user's public key is here
+    ```
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+    mQGNBGDz8bwBDADHa8q/B2oUK0nUuKIDE81Kw15L59/4GFCSJjfsAis3ywkawi7X
+    6NB6glzSRLsnoYx92mG7s4R9koWTBP7mDB6nYCDzId5jp3b/BrthiyyEhCECJyDR
+    hyCbV+nW6tVpsavhSh7XPfTXraNKav9GEk/LFabfO+sYP86R7gOGoiK3RVbhbtME
+    9uzzW5VRCgp6rLrB5BxbhkcP5e4e4dvrL5nBzhJO6J670b+005vlR/97qUxsXwnK
+    BolW8isAjePReKyvkt9oDo78r86/+CQgM1S53fPoUbA7kPg2v3+1dPbi7GVm2ziw
+    /JxYIFxidVaVexfTo9KmKjbj3L9B3q67Fs6HcGqyrhNMGRgY4B/OfPP3GaELyqU1
+    YFNGmXWDlYRhV4mxxItSs6blSvBFlN5pReqqP3ec/FtqDTd1oDgIm1DsAacxhfKp
+    D1ZC9ZndX7GFxd92/FJkO/5I37KkDPCzlUfOgYBv8slBGk+XLGKFGv8JqbG5j3Y3
+    EoL2sWuJ3AVaPhEAEQEAAbQhYTIxMzEyMjEzMCA8bVA2aUIxaEJAb3V0bG9vay5j
+    b20+iQHUBBMBCAA+FiEEnQgPleyyXWeeJ2tbMQrzLmRUw00FAmDz8bwCGwMFCQPC
+    ZwAFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AACgkQMQrzLmRUw02S5gv/UsSaPpal
+    XOytJ3uREtY3vAUW1AfQZztdRqmtsIcZ3wdZjXmoSi/6v17jMZv2fRdxBv/yYdhH
+    XDPUmN7Uuxe5bkYqYfapQ0EIBBXS9zrT1ehT4t1r6YBFCQuOY1Xsb2nkBFZOdk72
+    S71SLOXyBV3CIAZGSqH2sWP2fRMxwbGS6OaUUO2J+5IILz+WJVE05sbVq22PpZ2P
+    V8tknq7ZLrXV7FTRp/o4OS1vzjO1GIVMub16/tKiPj2RpWR2MVQFO6lGr60haoWh
+    wtb35She3iwtPIruiXMTYsQ+XXNO9ovogXPq9hgwYWJVp0e7mj4oZ/i9QUTJxHMZ
+    uflT6FjQjFAps9wzabFtLj49d3I9SUNfejRdHl4mrpImPVC3FQ13aJGBDY/i91Xf
+    sJfF6AjKf1o534ZhIbL+VARF4sP6vmrikG0I+05q3DjLA/SV4tSdpjUb6B+XTihK
+    zWqVcnKDzV15f1udfzRqujZhWjBwQzznD6gjq6U0L7vnfvO/EU+CPUAxuQGNBGDz
+    8bwBDADOP6MMlv+cy8L/OrT9hSD3npWasJxJJp9Ig4mEYUIwG1Xykjmnqvs/NE/+
+    6SK60pPDAK0xCVa1M3IjOKryJfY5vDDFSz+aRKfTh0vweWFJNeSBjthiL7GjSh2l
+    I+f4PgryHV6w2mJIT3yuGhpgCBKZkIw8SRJD4dgOHq1e1+plWCo9XQPAhlOvB5L4
+    bShsgBA5m4YB1roFMsWAmqJbjy134etgXVReCWaK0yc7TPrZGlgaBTU5C3KBVWF8
+    P4xP5kiG/UExwBvp/acniwKWs9MV8LPVva6YgLeOnU9lJdqmhdnHi1oWlDgiKufJ
+    HZt4cD9TAaVnT74QiA5FgDKO1dSZMcrF2PWGbiB69JHNaQjOF9egnlDSNipdCoY6
+    0VKMKRJWyIaSxdU40xut1iLntdkYyPF38lwevAfkgymeGuIk+YP0EqD8U2fBbB59
+    RWp/wY6FdD8mK4avExh1oVB6+Vi6D18Q2Wefwt0xDf7rey/neQncBXgiE34X9kGy
+    uepCGVcAEQEAAYkBvAQYAQgAJhYhBJ0ID5Xssl1nnidrWzEK8y5kVMNNBQJg8/G8
+    AhsMBQkDwmcAAAoJEDEK8y5kVMNN0QwL/jFySfLWavUIQqLsssl88eGiMMISrWJK
+    UfDhRAlECWqmTIqaBz1dpSjUk7Udks7Ju3nmxrUyYqRR4Z+ACPQpzBQviwPXx5nR
+    kdQKh83OkRIrfmA9S6NmKzAdg/rGUy13XmFjeyhsgYT1KxZIHBGZbiBtYTwIdnA4
+    kvs6Ven1BwzAe+EwhsoUG3jyKAn5lpD8x2Vx/Wu1sZWvlB2rFUS5O7YDMxVjunbb
+    Y+U9lWzvsHrLYFbyEnYje+dle0sSAwqx9cK7Ql82wTk4fVubfll/xRhxJz8IEZxX
+    qhBBIcHEOR1yWxLSljcD2TMMewdsTBKZGI/A3SI+QyMrD6bi+RKJawY787FD8TbI
+    sv40zvzAZSR2H7tbwImZ5p1cW5T59xudTUdT7C3KCrxsBB1jcf0ayNoT0oMlbj6i
+    hTiu5B0t42HlS46LSADJB9k/NDY9puD8oV7d8Gm2bnUyCY6A/qR9A5cgDUhuQsRr
+    eDjj5Ff4OvLE4INgUV2H9VbpaNpBbi+K8g==
+    =0Rfn
+    -----END PGP PUBLIC KEY BLOCK-----
+    ```
+
+- use this email to contact this user
+    ```
+    echo "bVA2aUIxaEJAb3V0bG9vay5jb20K" | base64 -d
+    ```
+
+</details>
+
 <!--
 <details>
 <summary> </summary>
@@ -54,8 +110,6 @@ Hey! Nice to see you.
 </span>
 </details>
 -->
-</details>
-
 
 <!--
 Communism have to become true
