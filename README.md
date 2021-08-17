@@ -17,6 +17,8 @@ Hey! Nice to see you.
 - 此用户掌握 PKI 和了解 socket
 - 此用户是务实的，并不排斥 Windows 这类闭源的商业软件
 - 这是此用户的博客 https://f2h2h1.github.io/
+- 此用户想法很简单，就是想写写代码，挣点养家费
+- 此用户虽然年纪已经大了，但用心搬好每一块砖的态度是没有变过的
 
 <details>
 <summary>more info</summary>
