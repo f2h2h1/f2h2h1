@@ -14,12 +14,13 @@ Hey! Nice to see you.
 - 此用户有良好的编码风格，会注重代码的可重用性和可读性
 - 此用户支持自由软件运动，并订阅了[自由软件基金会](https://www.fsf.org/)的准会员
 - 此用户了解自由软件和开源软件的区别，但此用户不支持自由软件原教旨主义
+- 此用户是务实的，并不排斥 Windows 这类闭源的商业软件
 - This user can communicate in English with the help of google translation
 - 此用户掌握 PKI 和了解 socket
-- 此用户是务实的，并不排斥 Windows 这类闭源的商业软件
 - 这是此用户的博客 https://f2h2h1.github.io/
 - 此用户想法很简单，就是想写写代码，挣点养家费
 - 此用户虽然年纪已经大了，但用心搬好每一块砖的态度是没有变过的
+- 此用户虽然年纪已经大了，但依然在保持学习，学习新的技术，学习新的知识，此用户有保持终身学习的倾向
 
 <details>
 <summary>more info</summary>
