@@ -16,6 +16,8 @@ Hey! Nice to see you.
 - 此用户了解自由软件和开源软件的区别，但此用户不支持自由软件原教旨主义
 - 此用户是务实的，并不排斥 Windows 这类闭源的商业软件
 - This user can communicate in English with the help of google translation
+- この利用者は簡単な日本語を話せます
+- 此用戶能閱讀和書寫繁體中文
 - 此用户掌握 PKI 和了解 socket
 - 这是此用户的博客 https://f2h2h1.github.io/
 - 此用户想法很简单，就是想写写代码，挣点养家费
@@ -30,8 +32,9 @@ Hey! Nice to see you.
 - 掌握SQL，掌握MySQL，熟悉数据库设计原则，了解MongoDB，了解mancache，redis等缓存的使用
 - 掌握JavaScript、jQuery、Chrome开发者工具，了解css3和less，了解vue，react，熟悉前后端分离机制，了解基本的浏览器渲染及网络传输过程
 - 掌握git，了解githook，了解svn，会部署远程git仓库，会使用Swagger，apiDoc等工具
-- 了解xdebug、postman、seleniun，playwright，PHPUnit，codeception等测试工具，会部署xdebug远程调试和多服务器调试
-- 了解HTTP、WebSocket、TCP等网络协议，了解 socket 接口
+- 了解postman、seleniun、playwright、PHPUnit、codeception、Jmeter、ab等测试工具
+- 了解xdebug，会通过xdebug的profiler文件寻找性能瓶颈，会部署xdebug远程调试和多服务器调试
+- 了解HTTP、WebSocket、DNS、TCP、UDP、IP等网络协议，了解 socket 接口
 - 了解常见的Web安全问题及防范方法，了解 lts 协议，了解rsa，des等加密算法
 - 了解Linux服务器的配置和管理，能独立搭建LNMP/LAMP环境，会使用宝塔面板，会写shell运维脚本，会编译安装php，apahce等常用软件
 - 了解nginx和apache，会配置https，url重写，反向代理，负载均衡，虚拟站点
@@ -47,7 +50,7 @@ Hey! Nice to see you.
 - VSCode
 - Firefox/Edge
 - Git
-- DBeaver Community
+- DBeaver Community/phpMyAdmin/Adminer
 - phpRedisAdmin
 - docker
 
