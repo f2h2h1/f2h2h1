@@ -37,8 +37,9 @@ Hey! Nice to see you.
 - 了解HTTP、WebSocket、DNS、TCP、UDP、IP等网络协议，了解 socket 接口
 - 了解常见的Web安全问题及防范方法，了解 lts 协议，了解rsa，des等加密算法
 - 了解Linux服务器的配置和管理，能独立搭建LNMP/LAMP环境，会使用宝塔面板，会写shell运维脚本，会编译安装php，apahce等常用软件
-- 了解nginx和apache，会配置https，url重写，反向代理，负载均衡，虚拟站点
-- 掌握docker容器，了解k8s，有服务器集群的构建和管理经验，了解Jenkins，有CI/CD的经验，会使用cron，supervisor，curl，psalm，php-cs-fixer等工具
+- 了解nginx和apache，会配置https，url重写，反向代理，负载均衡，虚拟站点，会使用cron，supervisor，curl，psalm，php-cs-fixer等工具
+- 了解Jenkins，GitLab-CI，GitHub Actions，有CI/CD的经验
+- 掌握docker容器，会使用 dockerfile docker-compose，了解k8s，有分布式集群的构建和管理经验
 - 掌握C语言，有linux编程经验，会makefile脚本，了解JAVA，C#等后端语言
 - 熟悉Python，了解爬虫原理，掌握正则表达式，了解xpath
 - 有处理高并发经验，了解常见的网站优化方法，了解常见的seo技巧
