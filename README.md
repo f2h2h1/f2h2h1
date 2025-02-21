@@ -20,11 +20,12 @@ Hey! Nice to see you.
 - 此用戶能閱讀和書寫繁體中文
 - 此用户掌握 TCP/IP 和 PKI
 - 这是此用户的博客 https://f2h2h1.github.io/
-- 此用户想法很简单，就是想写写代码，挣点养家费
-- 此用户虽然年纪已经大了，但用心搬好每一块砖的态度是没有变过的
-- 此用户虽然年纪已经大了，但依然在保持学习，学习新的技术，学习新的知识
-- 此用户有保持终身学习的倾向，且学习的内容不会局限于计算机领域
 - 此用户正在学习NAS相关的技能，此用户认为自己患上了数字仓鼠症
+- 此用户正在学习AI相关的知识，此用户认为AI的发展会使很多工作岗位消失
+- 此用户想法很简单，就是想写写代码，挣点养家费
+- 此用户即使年纪已经大了，依然保持学习，依然用心搬好每一块砖
+- 此用户有保持终身学习的倾向，且学习的内容不会局限于计算机领域
+- 此用户感到很伤心，因为学习了那么多的知识，依然赚不到钱，生活依然很艰难
 
 <details>
 <summary>more info</summary>
@@ -41,6 +42,7 @@ Hey! Nice to see you.
 - 了解Linux服务器的配置和管理，能独立搭建LNMP/LAMP环境，会使用宝塔面板，会写shell运维脚本，会编译安装php，apahce等常用软件
 - 了解nginx和apache，会配置https，url重写，反向代理，负载均衡，虚拟站点
 - 会使用systemctl，cron，supervisor，curl，netcat，psalm，php-cs-fixer等工具
+- 会使用RainLoop，exim，Dovecot部署邮件服务器
 - 了解Jenkins，GitLab-CI，GitHub Actions，有CI/CD的经验
 - 掌握docker容器，会使用 dockerfile docker-compose，了解k8s，有分布式集群的构建和管理经验
 - 掌握C语言，有linux编程经验，会makefile脚本，了解JAVA，C#等后端语言
@@ -50,6 +52,8 @@ Hey! Nice to see you.
 - 有 cms 开发经验，有 wordpress 插件开发经验，有 magento2 模块开发经验
 - 有对接 支付宝，微信支付，paypal，firstdata，AsiaPay 接口的经验
 - 了解编译原理，会处理各种字符编码，会使用Antlr，Peg.js等工具创建 DSL
+- 会使用 ollama 在本地部署 deepseek-r1:30b phi4 llama3.2 等常见的大模型，会使用 langchain 构建智能体
+- 会调用 openai 或 gamma 的接口，实现联网搜索 智能客服 生成文本 生成文档(word excel ppt pdf) 等功能
 
 ## Development tools
 - VSCode
